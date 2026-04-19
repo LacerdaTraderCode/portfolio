@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-lacerda-da-silva-958b9481)
 [![GitHub](https://img.shields.io/badge/GitHub-LacerdaTraderCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LacerdaTraderCode)
-[![Email](https://img.shields.io/badge/Email-lacerdawagner@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacerdawagner@outlook.com)
+[![Email](https://img.shields.io/badge/Email-lacerdatradercode@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacerdatradercode@outlook.com)
 
 </div>
 
@@ -217,7 +217,7 @@ Estou disponível para:
 
 ### 📩 Contato
 
-📧 **Email:** [lacerdawagner@outlook.com](mailto:lacerdawagner@outlook.com)  
+📧 **Email:** [lacerdatradercode@outlook.com](mailto:lacerdatradercode@outlook.com)  
 💼 **LinkedIn:** [wagner-lacerda-da-silva](https://www.linkedin.com/in/wagner-lacerda-da-silva-958b9481)  
 🐙 **GitHub:** [LacerdaTraderCode](https://github.com/LacerdaTraderCode)
 
