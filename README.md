@@ -1,26 +1,37 @@
-# 🎯 Portfolio — Wagner Lacerda
-
 <div align="center">
 
+# 🎯 Portfolio — Wagner Lacerda
+
+### 🐍 Python Developer | 🤖 AI Automation Specialist | 📊 Data & Trading
+#### 12+ anos em TI · Desenvolvendo em Python desde 2019 · Disponível para Home Office
+
+![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
+![Location](https://img.shields.io/badge/📍_Rio_Grande_do_Sul,_Brasil-0077B5?style=for-the-badge)
+![Remote](https://img.shields.io/badge/🏠_Home_Office-6e7681?style=for-the-badge)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-lacerda-da-silva-958b9481)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LacerdaTraderCode)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacerdatradercode@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LacerdaTraderCode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LacerdaTraderCode)
+[![Email](https://img.shields.io/badge/Email-lacerdawagner@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacerdawagner@outlook.com)
 
 </div>
 
 ---
 
-## 👋 Sobre
+## 👋 Sobre Mim
 
-**Analista de Infraestrutura & Desenvolvedor Python** com mais de 12 anos de experiência em TI, incluindo 9 anos na **John Deere** (Montenegro-RS) em ambiente de manufatura de missão crítica. Nos últimos 3 anos, atuo como desenvolvedor Python autônomo construindo APIs, bots, scrapers e pipelines de dados.
+Profissional de TI com **12+ anos de experiência corporativa**, sendo **9 anos na John Deere** (Montenegro-RS) como Analista de Infraestrutura e Líder Técnico, em ambiente de manufatura crítica onde 10 minutos de parada paralisavam toda a linha de produção.
 
-📍 **Rio Grande do Sul, Brasil** · 🏠 **Disponível para home office**
+Paralelamente à infraestrutura, **desde 2019 desenvolvo em Python por paixão** — nos primeiros anos como estudo e projetos pessoais de automação e trading algorítmico, e **desde 2023 integralmente** como desenvolvedor em projetos sob demanda: APIs REST, bots, web scraping, pipelines de dados e integração com IA.
+
+**🏆 Diferencial:** combino sólida experiência corporativa (SLA crítico, Scrum, smart hands internacional, liderança de equipes) com desenvolvimento Python moderno e uso estratégico de IA como copiloto de produtividade — combinação rara no mercado.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Públicos
 
-Este repositório é um **índice navegável** dos meus principais projetos públicos. Cada card abaixo leva a um repositório completo com código, documentação e instruções de uso.
+Este repositório é um **índice navegável** dos meus principais projetos. Cada card abaixo leva a um repositório completo com código, documentação e instruções de uso.
+
+> 💡 **A maior parte dos meus projetos profissionais é privada por contratos de confidencialidade com clientes.** Os 7 repositórios públicos abaixo demonstram na prática as tecnologias que utilizo.
 
 ---
 
@@ -112,7 +123,7 @@ Dashboard interativo de análise financeira com indicadores técnicos e gráfico
 
 ---
 
-### 7. 🤖 [Discord Moderation Bot](https://github.com/LacerdaTraderCode/discord-moderation-bot)
+### 7. 🛡️ [Discord Moderation Bot](https://github.com/LacerdaTraderCode/discord-moderation-bot)
 
 Bot Discord moderno com slash commands, moderação completa e anti-spam.
 
@@ -128,21 +139,31 @@ Bot Discord moderno com slash commands, moderação completa e anti-spam.
 
 ## 🛠️ Stack Técnica
 
-### Backend & APIs
+### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![MQL5](https://img.shields.io/badge/MQL5-2B2F35?style=flat-square&logoColor=white)
 
 ### Dados & ETL
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Parquet](https://img.shields.io/badge/Parquet-50ADD8?style=flat-square)
 
 ### Automação & Scraping
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### IA & LLMs
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_/_GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -155,22 +176,26 @@ Bot Discord moderno com slash commands, moderação completa e anti-spam.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### Sistemas Corporativos
+### Experiência Corporativa (John Deere)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Trajetória Profissional
 
 | Período | Cargo | Empresa |
 |---------|-------|---------|
-| 2023 - Atual | Desenvolvedor Python Autônomo & Trader | Independente |
+| **2023 - Atual** | Desenvolvedor Python Autônomo & Trader | Independente |
 | 2021 - 2022 | Analista de Infraestrutura | John Deere Brasil |
 | 2017 - 2021 | Técnico de Suporte N2 / Líder Técnico | Cognizant (cliente: John Deere) |
 | 2013 - 2017 | Analista de Suporte N2 / Líder Técnico | Stefanini IT Solutions (cliente: John Deere) |
 | 2007 - 2013 | Auxiliar de Informática e Telefonia | Comando da Aeronáutica |
+
+> 💡 **Note:** Python foi desenvolvido em paralelo às experiências em infraestrutura desde 2019, tornando-se atividade integral a partir de 2023.
 
 ---
 
@@ -190,7 +215,11 @@ Estou disponível para:
 - 🛠️ **Projetos freelance** de automação, APIs, bots e scraping
 - 🤝 **Consultoria técnica** em trading automatizado e pipelines de dados
 
-📩 **Contato:** [lacerdatradercode@outlook.com](mailto:lacerdatradercode@outlook.com)
+### 📩 Contato
+
+📧 **Email:** [lacerdawagner@outlook.com](mailto:lacerdawagner@outlook.com)  
+💼 **LinkedIn:** [wagner-lacerda-da-silva](https://www.linkedin.com/in/wagner-lacerda-da-silva-958b9481)  
+🐙 **GitHub:** [LacerdaTraderCode](https://github.com/LacerdaTraderCode)
 
 ---
 
