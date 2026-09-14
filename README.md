@@ -17,13 +17,15 @@
 
 ---
 
-## 👋 About Me
+### 👨‍💻 About Me
 
-IT professional with **12+ years of corporate experience**, including **9 years at John Deere** (Montenegro, RS) as an Infrastructure Analyst and Technical Lead in critical manufacturing environments where 10 minutes of downtime could halt the entire production line.
+Software Engineer with **12+ years of experience** in enterprise infrastructure and IT leadership (having worked with companies like **John Deere** and **Cognizant**). 
 
-Alongside infrastructure, **I have been passionate about developing in Python since 2019** — starting with personal automation and algorithmic trading projects, and **transitioning fully in 2023** to independent software development on demand: REST APIs, bots, web scraping, data pipelines, Machine Learning, and AI integration.
+Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript** and **JavaScript**. 
 
-**🏆 Differential:** I combine solid enterprise background (critical SLA, Scrum, international smart hands, team leadership) with modern Python development and the strategic use of AI as a productivity copilot — a rare combination in the market.
+Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting.
+
+🏆 **Differential:** A solid combination of robust Python backend development with a deep systems perspective in real production environments.
 
 ---
 
