@@ -187,10 +187,10 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 
 | Period | Role | Company |
 |--------|------|---------|
-| **2019 - Present** | Independent Senior Software Engineer specializing in Python & Trader | Self-Employed |
+| **2019 - Present** | Independent Senior Software Engineer specializing in Python & Trader | Freelancer |
 | 2021 - 2022 | Infrastructure Analyst | John Deere Brazil |
-| 2017 - 2021 | N2 Support Analyst / Technical Lead | Cognizant (Client: John Deere) |
-| 2013 - 2017 | N2 Support Analyst / Technical Lead | Stefanini IT Solutions (Client: John Deere) |
+| 2017 - 2021 | IT Support Lead | Cognizant (Client: John Deere) |
+| 2013 - 2017 | IT Support Lead | Stefanini IT Solutions (Client: John Deere) |
 | 2007 - 2013 | IT & Telephony Assistant | Brazilian Air Force |
 
 > 💡 **Note:** Python was developed in parallel with infrastructure experience since 2019, becoming a full-time activity starting in 2023.
