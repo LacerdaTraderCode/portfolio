@@ -204,11 +204,12 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certification
 
-- **Systems Analysis and Development** — UNIFAEL *(In progress, final thesis phase)*
+- **SA.S. in Software Analysis & Development** — UNIFAEL *(In progress, final thesis phase)*
+- **B.S. in Computer Science** — Universidade La Salle (Incomplete / Transferred to UNIFAEL) 2017*
 - **IT Technician** — IPUC *(Completed in 2014)*
-- **Maintenance Electrician with emphasis on Industrial Automation** — SENAI *(Completed in 2006)*
+- **Scrum Team Member Certification** — Scrum Inc. (Endorsed by Dr. Jeff Sutherland) Jan/2022*
 
 ---
 
