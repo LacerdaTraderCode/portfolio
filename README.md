@@ -3,7 +3,8 @@
 # 🎯 Portfolio — Wagner Lacerda
 
 ### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Bots • Systems (Web, Desktop & Mobile)
-#### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
+#### 12+ years in IT · Python as primary & preferred language since 2019
+#### 📩 Available for Full-Time Remote / B2B Contractor (PJ) Agreements
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Rio_Grande_do_Sul,_Brazil-0077B5?style=for-the-badge)
@@ -193,6 +194,7 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C487?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 
 ---
@@ -223,7 +225,7 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 
 I am available for:
 
-- 💼 **Remote PJ positions** focused on Python, Backend, or Data Engineering
+- 💼 **Full-time remote or B2B contractor (PJ) positions** focused on Python, Backend, or Data Engineering
 - 📝 **Freelance projects** involving automation, APIs, bots, and web scraping
 - 💡 **Technical consulting** in algorithmic trading and modern data pipelines
 
