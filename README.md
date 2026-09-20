@@ -2,7 +2,7 @@
 
 # 🎯 Portfolio — Wagner Lacerda
 
-### 🐍 Senior Software Engineer & Python Specialist | 🤖 AI Automation Specialist | 📊 Data & Trading
+### 🐍 Senior Software Engineer | Python • Backend • AI Apps • Automation • Systems
 #### 12+ years in IT · Python as primary & preferred language since 2019 · Available for Remote Work
 
 ![Open to Work](https://img.shields.io/badge/%23OpenToWork-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)
