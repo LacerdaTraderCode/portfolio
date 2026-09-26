@@ -22,11 +22,11 @@
 
 Software Engineer with **12+ years of experience** in enterprise infrastructure and IT leadership (having worked with companies like **John Deere** and **Cognizant**). 
 
-Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`) to full-stack web, desktop, and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript**, **JavaScript**, and **Flutter/Dart** for mobile. 
+Since **2019**, I have been working independently as a software engineer, building everything from **REST APIs** (`FastAPI`, `Flask`, `Django Ninja`) to full-stack web, desktop, and mobile applications. **Python is my primary and preferred language**, while I am also proficient in **TypeScript**, **JavaScript**, **Next.js**, **React**, and **Flutter/Dart** for mobile. 
 
-Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, `PostgreSQL`, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting. I also deploy and scale systems across **AWS, GCP, OCI, and Vercel**, backed by CI/CD pipelines.
+Much of my recent work focuses on data collection, web scraping, and automation (using tools like `n8n`, `Make`, and messaging APIs). I typically handle high-performance data processing using **SQL**, **NoSQL**, `PostgreSQL`, `Pandas`, `Polars`, `DuckDB`, and `Parquet` files, alongside developing predictive **Machine Learning** models and neural networks applied to data patterns and financial forecasting. I'm also applying LLMs through **Model Context Protocol (MCP)**, **RAG pipelines**, and **fine-tuning/evaluation** workflows. I deploy and scale systems across **AWS, GCP, OCI, and Vercel**, backed by CI/CD pipelines.
 
-🏆 **Differential:** A solid combination of robust Python backend development with a deep systems perspective in real production environments.
+🏆 **Differential:** A solid combination of robust Python backend development — now extending into applied LLM/AI evaluation workflows — with a deep systems perspective in real production environments.
 
 ---
 
@@ -146,14 +146,18 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Django Ninja](https://img.shields.io/badge/Django_Ninja-092E20?style=flat-square&logo=django&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-2B2F35?style=flat-square&logoColor=white)
 
 ### Data, SQL & ETL
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
@@ -166,6 +170,9 @@ Modern Discord bot equipped with slash commands, complete moderation, and anti-s
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_/_GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8E44AD?style=flat-square)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-FF6F00?style=flat-square)
 
 ### Automation, Scraping & Bots
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
