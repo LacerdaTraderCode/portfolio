@@ -46,7 +46,7 @@
 | [Telegram Crypto Alert Bot](https://github.com/LacerdaTraderCode/telegram-crypto-alert-bot) | ✅ | python-telegram-bot · Binance API · asyncio | Fully async architecture |
 | [Discord Moderation Bot](https://github.com/LacerdaTraderCode/discord-moderation-bot) | ✅ | discord.py 2.x · SQLAlchemy | Slash commands, anti-spam, cogs |
 | WhatsApp Sticker Converter | 🚧 | FastAPI · React/Vite · JWT | Real full-stack work, outside the trading domain |
-| n8n + Make Automation Suite | 📋 | n8n · Make · Flask webhook receiver | Closes n8n, Make, and Flask in one project |
+| [n8n + Make Automation Suite](https://github.com/LacerdaTraderCode/n8n-make-automation-suite) | ✅ | n8n · Make · Flask webhook receiver | Closes n8n, Make, and Flask in one project |
 
 ## Frontend & Mobile
 
@@ -93,7 +93,7 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 ### Wave 1 — Foundation
 - [x] Django Ninja + MongoDB API
 - [ ] Publish/polish WhatsApp Sticker Converter
-- [ ] n8n + Make Automation Suite
+- [x] n8n + Make Automation Suite
 
 ### Wave 2 — Applied AI
 - [ ] Multi-Provider MCP Server
