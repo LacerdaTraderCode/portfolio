@@ -24,7 +24,7 @@
 
 | Project | Status | Stack | What it demonstrates |
 |---|---|---|---|
-| Multi-Provider MCP Server | 📋 | MCP · Claude/GPT/Gemini adapter | MCP in practice + provider-agnostic architecture |
+| [Multi-Provider MCP Server](https://github.com/LacerdaTraderCode/mcp-multi-llm-server) | ✅ | MCP (official SDK) · Claude/GPT/Gemini adapters · httpx2 | MCP in practice + provider-agnostic architecture |
 | RAG Knowledge Assistant | 📋 | Embeddings · vector store · FastAPI | End-to-end RAG |
 | **AI Data & Evaluation** — Rubric-Based Fine-Tuning Pipeline | 📋 | Multi-criteria rubrics · preference data · fine-tuning | see detail below |
 | Price Prediction with ML | 📋 | scikit-learn · neural network (PyTorch/Keras) | Machine Learning, Deep Learning, neural networks, predictive modeling |
@@ -96,7 +96,7 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 - [x] n8n + Make Automation Suite
 
 ### Wave 2 — Applied AI
-- [ ] Multi-Provider MCP Server
+- [x] Multi-Provider MCP Server
 - [ ] RAG Knowledge Assistant
 - [ ] AI Data & Evaluation — Rubric-Based Fine-Tuning Pipeline
 
