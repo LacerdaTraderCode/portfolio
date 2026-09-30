@@ -26,17 +26,8 @@
 |---|---|---|---|
 | [Multi-Provider MCP Server](https://github.com/LacerdaTraderCode/mcp-multi-llm-server) | ✅ | MCP (official SDK) · Claude/GPT/Gemini adapters · httpx2 | MCP in practice + provider-agnostic architecture |
 | [RAG Knowledge Assistant](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | ✅ | TF-IDF retrieval · FastAPI · Claude | End-to-end RAG with cited, grounded answers |
-| **AI Data & Evaluation** — Rubric-Based Fine-Tuning Pipeline | 📋 | Multi-criteria rubrics · preference data · fine-tuning | see detail below |
+| [AI Data & Evaluation](https://github.com/LacerdaTraderCode/ai-data-evaluation) | ✅ | Anchored rubrics · LLM-as-judge · preference data | Rubric design, golden-set agreement checking, DPO-shaped preference data |
 | Price Prediction with ML | 📋 | scikit-learn · neural network (PyTorch/Keras) | Machine Learning, Deep Learning, neural networks, predictive modeling |
-
-**Detail — AI Data & Evaluation:**
-
-1. A set of LLM outputs for a fixed task (e.g., summarization, code review, or a support reply)
-2. A documented multi-criteria rubric (e.g., factual correctness, completeness, format adherence, tone) with an objective scale and definition per level — no "1-to-5 score" without a written criterion
-3. A scoring harness applying the rubric to the outputs, producing preference data (A/B pairs with a per-criterion justification)
-4. A consistency check against a golden set
-5. Using the preference data to guide a real fine-tuning run, even on a small model — the pipeline matters more than the model size
-6. A README explaining the rubric-design methodology — that part is what shows rigor, not just the code
 
 ## Automation, Scraping & Bots
 
@@ -95,10 +86,10 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 - [ ] Publish/polish WhatsApp Sticker Converter
 - [x] n8n + Make Automation Suite
 
-### Wave 2 — Applied AI
+### Wave 2 — Applied AI ✅ complete
 - [x] Multi-Provider MCP Server
 - [x] RAG Knowledge Assistant
-- [ ] AI Data & Evaluation — Rubric-Based Fine-Tuning Pipeline
+- [x] AI Data & Evaluation — Rubric-Based Fine-Tuning Pipeline
 
 ### Wave 3 — Trading & Quant
 - [ ] Quant Strategy Simulator
