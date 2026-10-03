@@ -27,7 +27,7 @@
 | [Multi-Provider MCP Server](https://github.com/LacerdaTraderCode/mcp-multi-llm-server) | ✅ | MCP (official SDK) · Claude/GPT/Gemini adapters · httpx2 | MCP in practice + provider-agnostic architecture |
 | [RAG Knowledge Assistant](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | ✅ | TF-IDF retrieval · FastAPI · Claude | End-to-end RAG with cited, grounded answers |
 | [AI Data & Evaluation](https://github.com/LacerdaTraderCode/ai-data-evaluation) | ✅ | Anchored rubrics · LLM-as-judge · preference data | Rubric design, golden-set agreement checking, DPO-shaped preference data |
-| Price Prediction with ML | 📋 | scikit-learn · neural network (PyTorch/Keras) | Machine Learning, Deep Learning, neural networks, predictive modeling |
+| [Price Prediction with ML](https://github.com/LacerdaTraderCode/price-prediction-ml) | ✅ | scikit-learn (RandomForest + MLP) | Honest ML methodology: lookahead-free features, chronological split, baseline comparison |
 
 ## Automation, Scraping & Bots
 
@@ -93,7 +93,7 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 
 ### Wave 3 — Trading & Quant
 - [x] Quant Strategy Simulator
-- [ ] Price Prediction with ML
+- [x] Price Prediction with ML
 - [ ] MQL5 EA + Python analysis
 
 ### Wave 4 — Frontend, Mobile & Infra
