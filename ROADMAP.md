@@ -52,7 +52,7 @@
 |---|---|---|---|
 | [Streamlit Finance Dashboard](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard) | ✅ | Streamlit · Plotly · yfinance | Display-only technical indicators |
 | [Quant Strategy Simulator](https://github.com/LacerdaTraderCode/quant-strategy-simulator) | ✅ | Plain Python · Pytest · DuckDB | Generalized money-management strategies, Monte Carlo comparison, ruin-rate analysis |
-| MQL5 EA + Python analysis | 📋 | MQL5 · Polars | A rare skill — zero coverage today |
+| [MQL5 EA + Python analysis](https://github.com/LacerdaTraderCode/mql5-ea-analysis) | ✅ | MQL5 · Polars | A rare skill — real Expert Advisor + Polars trade-log analysis |
 
 ## DevOps & Infra
 
@@ -91,10 +91,10 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 - [x] RAG Knowledge Assistant
 - [x] AI Data & Evaluation — Rubric-Based Fine-Tuning Pipeline
 
-### Wave 3 — Trading & Quant
+### Wave 3 — Trading & Quant ✅ complete
 - [x] Quant Strategy Simulator
 - [x] Price Prediction with ML
-- [ ] MQL5 EA + Python analysis
+- [x] MQL5 EA + Python analysis
 
 ### Wave 4 — Frontend, Mobile & Infra
 - [ ] Next.js Dashboard
