@@ -76,7 +76,6 @@ GitHub "About" descriptions are updated on all seven repositories.
 
 ## Remaining work
 
-1. **streamlit-finance-dashboard**: extract chart building from the monolithic `app.py` into a testable module, translate the UI, test indicators (SMA, EMA, RSI, MACD, Bollinger), metrics, mocked `yfinance` and the app via `streamlit.testing.v1.AppTest`.
-2. **python-automation-scripts**: tests for the eight scripts using temporary directories; mock SMTP and system metrics.
-3. **discord-moderation-bot**: tests for cogs and database with mocked `discord.py` objects.
-4. Close out the open items above and delete stale branches.
+1. **python-automation-scripts**: tests for the eight scripts using temporary directories; mock SMTP and system metrics.
+2. **discord-moderation-bot**: tests for cogs and database with mocked `discord.py` objects.
+3. Close out the open items above and delete stale branches.
