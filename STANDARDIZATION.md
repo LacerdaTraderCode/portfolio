@@ -71,7 +71,8 @@ GitHub "About" descriptions are updated on all seven repositories.
 3. **telegram-crypto-alert-bot** lists `apscheduler` in `requirements.txt` but never uses it.
 4. **web-scraper-toolkit README** performance table has unverified timings.
 5. **data-pipeline-polars-duckdb README** lists "joins" as a feature that does not exist and has an unverified comparison table.
-6. **Stale branches:** `ci/github-actions` still exists in all merged repositories. Delete after confirmation.
+6. **streamlit-finance-dashboard README** advertises a normalized multi-asset comparison that the app does not implement, lists `1d` and `5d` periods that the UI does not offer, and the EMA indicator is only used inside MACD (not shown in the UI).
+7. **Stale branches:** `ci/github-actions` still exists in all merged repositories. Delete after confirmation.
 
 ## Remaining work
 
