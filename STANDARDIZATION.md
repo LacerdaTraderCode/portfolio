@@ -60,6 +60,10 @@ GitHub "About" descriptions are updated on all seven repositories.
 - Parquet path is escaped before interpolation into SQL
 - Tests: extract, transform, load, DuckDB analysis, example scripts end to end
 
+### streamlit-finance-dashboard
+- Extracted chart construction from `app.py` into `charts.py`; removed unused imports
+- Tests: indicators with known values, data loader (mocked yfinance), charts, dashboard via Streamlit `AppTest`
+
 ## Open items
 
 1. **Topics and homepage:** not settable with the current tooling. Add manually under each repository's About settings (suggested: `fastapi`, `jwt`, `sqlalchemy`, `telegram-bot`, `binance`, `web-scraping`, `playwright`, `polars`, `duckdb`, `etl`, `streamlit`, `plotly`, `discord-py`).
