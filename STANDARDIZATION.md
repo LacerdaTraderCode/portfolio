@@ -27,7 +27,7 @@ Delivery rules: one branch and one pull request per repository, merged only afte
 | [telegram-crypto-alert-bot](https://github.com/LacerdaTraderCode/telegram-crypto-alert-bot) | [#3](https://github.com/LacerdaTraderCode/telegram-crypto-alert-bot/pull/3) | Green | Merged |
 | [web-scraper-toolkit](https://github.com/LacerdaTraderCode/web-scraper-toolkit) | [#3](https://github.com/LacerdaTraderCode/web-scraper-toolkit/pull/3) | Green | Merged |
 | [data-pipeline-polars-duckdb](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb) | [#3](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb/pull/3) | Green | Merged |
-| [streamlit-finance-dashboard](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard) | - | - | Pending |
+| [streamlit-finance-dashboard](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard) | [#3](https://github.com/LacerdaTraderCode/streamlit-finance-dashboard/pull/3) | Green | Merged |
 | [python-automation-scripts](https://github.com/LacerdaTraderCode/python-automation-scripts) | - | - | Pending |
 | [discord-moderation-bot](https://github.com/LacerdaTraderCode/discord-moderation-bot) | - | - | Pending |
 
