@@ -66,7 +66,7 @@ GitHub "About" descriptions are updated on all seven repositories.
 
 ## Open items
 
-1. **Topics and homepage:** not settable with the current tooling. Add manually under each repository's About settings (suggested: `fastapi`, `jwt`, `sqlalchemy`, `telegram-bot`, `binance`, `web-scraping`, `playwright`, `polars`, `duckdb`, `etl`, `streamlit`, `plotly`, `discord-py`).
+1. **Homepage (About):** not settable with the current tooling. Set manually if wanted. Topics are done: set on all seven repositories (an earlier version of this document wrongly listed topics as unsupported).
 2. **telegram-crypto-alert-bot README** claims automatic rate limiting that the code does not implement. Remove the claim or implement it.
 3. **telegram-crypto-alert-bot** lists `apscheduler` in `requirements.txt` but never uses it.
 4. **web-scraper-toolkit README** performance table has unverified timings.
