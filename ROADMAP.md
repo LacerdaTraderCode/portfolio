@@ -43,7 +43,7 @@
 
 | Project | Status | Stack | What it demonstrates |
 |---|---|---|---|
-| Next.js Dashboard (SSR) | 📋 | Next.js · TypeScript · React | React/Vite already exists in the sticker converter — this closes Next.js/SSR and TS |
+| [Next.js Dashboard (SSR)](https://github.com/LacerdaTraderCode/nextjs-bookmarks-dashboard) | ✅ | Next.js 16 · React 19 · TypeScript · Vitest | Static shell + streamed content, Server Functions, httpOnly session cookie — closes Next.js/SSR and TS |
 | Flutter App | 📋 | Flutter · Dart | Mobile — currently zero coverage |
 
 ## Trading & Quant
@@ -97,7 +97,7 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 - [x] MQL5 EA + Python analysis
 
 ### Wave 4 — Frontend, Mobile & Infra
-- [ ] Next.js Dashboard
+- [x] Next.js Dashboard
 - [ ] Flutter App
 - [ ] Wallet & Ledger System
 - [ ] Reference Architecture (Docker + K8s + CI/CD)
