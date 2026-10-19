@@ -44,7 +44,7 @@
 | Project | Status | Stack | What it demonstrates |
 |---|---|---|---|
 | [Next.js Dashboard (SSR)](https://github.com/LacerdaTraderCode/nextjs-bookmarks-dashboard) | ✅ | Next.js 16 · React 19 · TypeScript · Vitest | Static shell + streamed content, Server Functions, httpOnly session cookie — closes Next.js/SSR and TS |
-| Flutter App | 📋 | Flutter · Dart | Mobile — currently zero coverage |
+| [Flutter App](https://github.com/LacerdaTraderCode/flutter-bookmarks-app) | ✅ | Flutter · Dart · Riverpod 3 · Dio · go_router | Mobile — session-driven navigation, rejected-token handling, session-scoped list state, 119 headless tests in CI |
 
 ## Trading & Quant
 
@@ -98,6 +98,6 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 
 ### Wave 4 — Frontend, Mobile & Infra
 - [x] Next.js Dashboard
-- [ ] Flutter App
+- [x] Flutter App
 - [ ] Wallet & Ledger System
 - [ ] Reference Architecture (Docker + K8s + CI/CD)
