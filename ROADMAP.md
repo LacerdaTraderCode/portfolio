@@ -25,7 +25,7 @@
 | Project | Status | Stack | What it demonstrates |
 |---|---|---|---|
 | [Multi-Provider MCP Server](https://github.com/LacerdaTraderCode/mcp-multi-llm-server) | ✅ | MCP (official SDK) · Claude/GPT/Gemini adapters · httpx2 | MCP in practice + provider-agnostic architecture |
-| [RAG Knowledge Assistant](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | ✅ | TF-IDF retrieval · FastAPI · Claude | End-to-end RAG with cited, grounded answers |
+| [RAG Knowledge Assistant](https://github.com/LacerdaTraderCode/rag-knowledge-assistant) | ✅ | Hybrid retrieval (TF-IDF + embeddings, RRF) · Qdrant · fastembed · FastAPI · Claude | End-to-end RAG with cited, grounded answers, and retrieval measured per mode on a golden set with a CI quality gate |
 | [AI Data & Evaluation](https://github.com/LacerdaTraderCode/ai-data-evaluation) | ✅ | Anchored rubrics · LLM-as-judge · preference data | Rubric design, golden-set agreement checking, DPO-shaped preference data |
 | [Price Prediction with ML](https://github.com/LacerdaTraderCode/price-prediction-ml) | ✅ | scikit-learn (RandomForest + MLP) | Honest ML methodology: lookahead-free features, chronological split, baseline comparison |
 
