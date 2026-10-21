@@ -39,9 +39,10 @@ side by side through a single interface.
 End-to-end retrieval-augmented generation pipeline that answers questions grounded
 in a document set, with citations back to the source chunks.
 
-**Stack:** `TF-IDF retrieval` `FastAPI` `Claude`
+**Stack:** `Hybrid retrieval (RRF)` `Qdrant` `fastembed` `TF-IDF` `FastAPI` `Claude`
 
-- TF-IDF retrieval chosen deliberately over embeddings — runs fully offline, deterministic, no API key required just to test retrieval quality
+- Retrieval is chosen by configuration — TF-IDF, semantic (embeddings in Qdrant), or hybrid, which merges both rankings with Reciprocal Rank Fusion; TF-IDF stays a first-class mode that runs fully offline with no model download
+- Each mode is measured on a 40-question golden set (hit rate@3: hybrid 0.975, semantic 0.900, TF-IDF 0.875), and CI fails if hybrid falls below the TF-IDF baseline — the README also says where semantic search alone loses
 - Every generated answer returns alongside the exact chunks it was grounded in, not just a confident-sounding response
 
 ---
