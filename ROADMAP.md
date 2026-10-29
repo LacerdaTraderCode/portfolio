@@ -17,7 +17,7 @@
 |---|---|---|---|
 | [FastAPI REST Boilerplate](https://github.com/LacerdaTraderCode/fastapi-rest-boilerplate) | ✅ | FastAPI · SQLAlchemy · JWT · Pydantic · PostgreSQL | Production-ready REST API, JWT auth, automatic Swagger docs |
 | [Django Ninja + MongoDB API](https://github.com/LacerdaTraderCode/django-ninja-mongo-api) | ✅ | Django Ninja · MongoDB (Motor) · JWT · argon2 | Same problem as the boilerplate above, second stack — closes the NoSQL gap |
-| Wallet & Ledger System | 📋 | PostgreSQL · relational modeling · double-entry accounting | Real relational modeling, not a simple CRUD |
+| [Wallet & Ledger System](https://github.com/LacerdaTraderCode/wallet-ledger-postgres) | ✅ | Python · PostgreSQL 16 · psycopg 3 · FastAPI | Double-entry ledger with the rules enforced by triggers, holds, idempotent writes, and a lock-ordering deadlock found and fixed by test |
 | [Data Pipeline Polars & DuckDB](https://github.com/LacerdaTraderCode/data-pipeline-polars-duckdb) | ✅ | Polars · DuckDB · Parquet · PyArrow | Modern ETL, 10-100x faster than Pandas, benchmark included |
 
 ## Applied AI
@@ -99,5 +99,5 @@ The order is purely technical — whatever unblocks or speeds up the rest comes 
 ### Wave 4 — Frontend, Mobile & Infra
 - [x] Next.js Dashboard
 - [x] Flutter App
-- [ ] Wallet & Ledger System
+- [x] Wallet & Ledger System
 - [ ] Reference Architecture (Docker + K8s + CI/CD)
